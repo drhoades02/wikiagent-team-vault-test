@@ -3,6 +3,7 @@
 Curated alias → canonical mappings for this vault. WikiAgent maintains this file from the review workflow and uses the canonical form when tagging derived concepts, entities, and facets. The machine-readable source of truth is the managed block at the bottom.
 
 - `2.7` → **Gen 2.7**
+- **Testicles** → Testes
 - `Gen 27` → **Gen 2.7**
 - `Gen. 2.7` → **Gen 2.7**
 - `LDLD` → **Low Level Design**
