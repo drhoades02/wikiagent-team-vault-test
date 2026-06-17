@@ -1,0 +1,10 @@
+# Curated index pages are append-only link lists; union-merge them so two
+# team proposals appending to the same page don't conflict (git keeps both sides).
+indexes/** merge=union
+# The JSON-block registries serialize as sorted pretty-printed JSON: union-merging
+# two sort-adjacent inserts produces invalid JSON that all readers silently parse
+# as empty (wiping the registry). Exclude them so a real overlap conflicts loudly
+# (typed proposal_merge_conflict) instead of corrupting data.
+indexes/canonical-terms.md -merge
+indexes/collections.md -merge
+indexes/skill-bindings.md -merge
