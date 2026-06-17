@@ -8,6 +8,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `Rob Lapu` → **Rob Lebu**
 - `Rob Lebuth` → **Rob Lebu**
 - `attack hacks` → **Tacx**
+- `TReq` → **Test Requirements**
 
 <!-- wikiagent:canonical-terms
 {
@@ -42,6 +43,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "attack hacks",
       "canonicalTerm": "Tacx",
       "confidence": 0.69
+    },
+    {
+      "aliasTerm": "TReq",
+      "canonicalTerm": "Test Requirements",
+      "confidence": 0.95
     }
   ]
 }
