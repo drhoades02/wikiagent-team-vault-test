@@ -6,6 +6,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `go, no go call` → **go/no-go call**
 - `no go, go, no go call` → **go/no-go call**
 - `J tech` → **JTAC**
+- `Kirk` → **KIRKE** _(entity)_
 - `S to I` → **S2I**
 - `SS2` → **S2I**
 - `VRP` → **VRRP**
@@ -33,6 +34,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "J tech",
       "canonicalTerm": "JTAC",
       "confidence": 0.8
+    },
+    {
+      "aliasTerm": "Kirk",
+      "canonicalTerm": "KIRKE",
+      "termKind": "entity"
     },
     {
       "aliasTerm": "S to I",

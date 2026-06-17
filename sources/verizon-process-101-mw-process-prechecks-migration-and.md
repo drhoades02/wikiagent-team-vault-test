@@ -15,7 +15,7 @@ concepts:
 entities:
 - Erickson, James
 - JTAC proactive case
-- Kirk
+- KIRKE
 - S2I
 facets:
 - December 17, 2025
