@@ -1,0 +1,54 @@
+# Canonical terms
+
+Curated alias → canonical mappings for this vault. WikiAgent maintains this file from the review workflow and uses the canonical form when tagging derived concepts, entities, and facets. The machine-readable source of truth is the managed block at the bottom.
+
+- `go no go call` → **go/no-go call**
+- `go, no go call` → **go/no-go call**
+- `no go, go, no go call` → **go/no-go call**
+- `J tech` → **JTAC**
+- `S to I` → **S2I**
+- `SS2` → **S2I**
+- `VRP` → **VRRP**
+
+<!-- wikiagent:canonical-terms
+{
+  "schemaVersion": 1,
+  "mappings": [
+    {
+      "aliasTerm": "go no go call",
+      "canonicalTerm": "go/no-go call",
+      "confidence": 0.82
+    },
+    {
+      "aliasTerm": "go, no go call",
+      "canonicalTerm": "go/no-go call",
+      "confidence": 0.82
+    },
+    {
+      "aliasTerm": "no go, go, no go call",
+      "canonicalTerm": "go/no-go call",
+      "confidence": 0.82
+    },
+    {
+      "aliasTerm": "J tech",
+      "canonicalTerm": "JTAC",
+      "confidence": 0.8
+    },
+    {
+      "aliasTerm": "S to I",
+      "canonicalTerm": "S2I",
+      "confidence": 0.72
+    },
+    {
+      "aliasTerm": "SS2",
+      "canonicalTerm": "S2I",
+      "confidence": 0.72
+    },
+    {
+      "aliasTerm": "VRP",
+      "canonicalTerm": "VRRP",
+      "confidence": 0.72
+    }
+  ]
+}
+-->
