@@ -23,3 +23,5 @@
 - [[sources/rayma1|RAYMA1]]: RAYMA1 is an in-production US VOIP node in Relay, MD, with AC Micronode/Decommission node type, MX104 router, 1Gb bandwidth, EX4300 switch, SRX345 firewall, PIP/IPACx1K VSN types, and router/firewall management VIPs.
 
 - [[sources/gnjsn1|GNJSN1]]: GNJSN1 is an in-production US VOIP node in Kernersville, NC, with 1st Gen SN node type, MX960 router, 10Gb bandwidth, SRX4600 firewall, SPIP7-8 VSN type, router/firewall management VIPs, and planning for Gen 2.7 GNJSN1MR01/MR02 plus migration of Neptunes from GNJSN2 while retaining the node.
+
+- [[sources/sejsn1|SEJSN1]]: SEJSN1 is an in-production US VOIP node in Kent, WA, with 1st Gen SN node type, MX960 router, 10Gb bandwidth, SRX4600 firewall, SPIP7-8 PIP VSN type, and planning to move to Gen 2.7 SEJSN1MR01/MR02 while retaining the node.

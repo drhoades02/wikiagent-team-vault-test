@@ -13,6 +13,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `J tech` → **JTAC**
 - `Kirk` → **KIRKE** _(entity)_
 - `NY` → **New York**
+- `Node Evol` → **Node Evolution**
 - `OH` → **Ohio**
 - `S to I` → **S2I**
 - `SS2` → **S2I**
@@ -78,6 +79,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "NY",
       "canonicalTerm": "New York",
       "confidence": 0.74
+    },
+    {
+      "aliasTerm": "Node Evol",
+      "canonicalTerm": "Node Evolution",
+      "confidence": 0.82
     },
     {
       "aliasTerm": "OH",
