@@ -8,6 +8,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `no go, go, no go call` → **go/no-go call**
 - `J tech` → **JTAC**
 - `Kirk` → **KIRKE** _(entity)_
+- `NY` → **New York**
 - `OH` → **Ohio**
 - `S to I` → **S2I**
 - `SS2` → **S2I**
@@ -47,6 +48,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "Kirk",
       "canonicalTerm": "KIRKE",
       "termKind": "entity"
+    },
+    {
+      "aliasTerm": "NY",
+      "canonicalTerm": "New York",
+      "confidence": 0.74
     },
     {
       "aliasTerm": "OH",
