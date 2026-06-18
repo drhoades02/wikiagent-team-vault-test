@@ -19,3 +19,5 @@
 - [[sources/idcsn1|IDCSN1]]: IDCSN1 is an in-production US VOIP node in Independence, MO, with 1st Gen SN node type, MX960 router, 10Gb bandwidth, SPIP7-8 VSN type, router management VIPs, and a plan to upgrade IDCSN4, migrate SPIP7_8 to IDCSN4, and decommission IDCSN1.
 
 - [[sources/sin2|SIN2]]: SIN2 is an in-production APAC VOIP node in SG with CS2K-SRX node type, an Avaya router, SRX345 firewall, ComboGW CS2K type, and firewall VIP 10.45.54.76.
+
+- [[sources/rayma1|RAYMA1]]: RAYMA1 is an in-production US VOIP node in Relay, MD, with AC Micronode/Decommission node type, MX104 router, 1Gb bandwidth, EX4300 switch, SRX345 firewall, PIP/IPACx1K VSN types, and router/firewall management VIPs.
