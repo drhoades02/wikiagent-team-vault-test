@@ -5,3 +5,5 @@
 - [[sources/annpmdan|ANNPMDAN]]: ANNPMDAN is an in-production US VOIP node in Annapolis, MD, with FDV ALF node type, MX960 router, 6509(VERB) switch, SRX345 firewall, and firewall VIP 152.210.148.85.
 
 - [[sources/raymi1|RAYMI1]]: RAYMI1 is an in-production US IDA Micronode in Relay, MD, with an MX104 router, 1Gb bandwidth, EX4300 switch, SRX4600 firewall, IDA VSN type, and router/firewall management VIPs.
+
+- [[sources/norsn1|NORSN1]]: NORSN1 is an in-production US VOIP node in North Royalton, OH, with 2.7 Gen SN node type, MX960 router, 10Gb bandwidth, SPIP7-8 VSN type, router management VIPs, and planning to migrate Neptunes from NORSN4 while retaining the node.
