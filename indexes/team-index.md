@@ -7,3 +7,5 @@ Use this page for curated team knowledge, stable concepts, and approved source l
 - [[sources/rcnsn2|RCNSN2]]: RCNSN2 is an in-production Richardson, TX second-generation SN using an MX960 router, with planning to migrate to Neptunes/vC20/G9, move Neptunes to RCNSN1, retain PVGs, and decommission after PVG migrations.
 
 - [[sources/raymi1|RAYMI1]]
+
+- [[sources/elp4|ELP4]]: ELP4 is an in-production US VOIP node in Lubbock, TX, using an MX960 router with VX/VGA node type and CS2K VSN type LUB2.
