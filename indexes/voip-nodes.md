@@ -29,3 +29,5 @@
 - [[sources/nycknywm|NYCKNYWM]]: NYCKNYWM is an in-production US VOIP node in Williamsburg, NY, with FDV ALF node type, an MX960 router, 6509(VERB) switch, SRX345 firewall, and Firewall VIP 152.213.240.105.
 
 - [[sources/cpzsn1|CPZSN1]]: CPZSN1 is an in-production US VOIP node in Atlanta, GA, with 1st Gen SN node type, MX960 router, 10Gb bandwidth, SPIP7-8 VSN type, router management VIPs, and planning to move to Gen 2.7 CPZSN1MR01/MR02, migrate Neptunes from CPZSN2, and retain the node.
+
+- [[sources/nwrk|NWRK]]: NWRK is an in-production US VOIP node in Newark, NJ, with VX/VGA node type, an MX960 router, CS2K NWKG Opt G VSN type, ADF/UDP, and Router1 VIP 166.47.6.155.
