@@ -15,3 +15,5 @@ Use this page for curated team knowledge, stable concepts, and approved source l
 - [[sources/chi2|CHI2]]: CHI2 is an in-production US VOIP node in Downers Grove, IL, using a VX/VGA node type, MX960 router, CS2K DNG5 Opt 2, VZW NNI VX2, and Router1 VIP 166.56.0.176.
 
 - [[sources/idcsn1|IDCSN1]]: IDCSN1 is an in-production Independence, MO 1st Gen SN node using an MX960 router and SPIP7-8, with planning to migrate SPIP7_8 to IDCSN4 and decommission IDCSN1.
+
+- [[sources/sin2|SIN2]]
