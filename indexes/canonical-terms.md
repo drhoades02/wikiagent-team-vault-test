@@ -2,6 +2,7 @@
 
 Curated alias → canonical mappings for this vault. WikiAgent maintains this file from the review workflow and uses the canonical form when tagging derived concepts, entities, and facets. The machine-readable source of truth is the managed block at the bottom.
 
+- `G9` → **G9x2**
 - `go no go call` → **go/no-go call**
 - `go, no go call` → **go/no-go call**
 - `no go, go, no go call` → **go/no-go call**
@@ -9,12 +10,18 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `Kirk` → **KIRKE** _(entity)_
 - `S to I` → **S2I**
 - `SS2` → **S2I**
+- `TX` → **Texas**
 - `VRP` → **VRRP**
 
 <!-- wikiagent:canonical-terms
 {
   "schemaVersion": 1,
   "mappings": [
+    {
+      "aliasTerm": "G9",
+      "canonicalTerm": "G9x2",
+      "confidence": 0.68
+    },
     {
       "aliasTerm": "go no go call",
       "canonicalTerm": "go/no-go call",
@@ -48,6 +55,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
     {
       "aliasTerm": "SS2",
       "canonicalTerm": "S2I",
+      "confidence": 0.72
+    },
+    {
+      "aliasTerm": "TX",
+      "canonicalTerm": "Texas",
       "confidence": 0.72
     },
     {
