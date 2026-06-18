@@ -21,3 +21,5 @@ Use this page for curated team knowledge, stable concepts, and approved source l
 - [[sources/rayma1|RAYMA1]]
 
 - [[sources/sejsn1|SEJSN1]]: SEJSN1 is an in-production US VOIP node in Kent, WA, using an MX960 router, SRX4600 firewall, SPIP7-8 PIP VSN type, and a retain end-state after Gen 2.7 migration planning.
+
+- [[sources/cpzsn1|CPZSN1]]
