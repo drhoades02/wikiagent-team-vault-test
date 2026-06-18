@@ -21,3 +21,5 @@
 - [[sources/sin2|SIN2]]: SIN2 is an in-production APAC VOIP node in SG with CS2K-SRX node type, an Avaya router, SRX345 firewall, ComboGW CS2K type, and firewall VIP 10.45.54.76.
 
 - [[sources/rayma1|RAYMA1]]: RAYMA1 is an in-production US VOIP node in Relay, MD, with AC Micronode/Decommission node type, MX104 router, 1Gb bandwidth, EX4300 switch, SRX345 firewall, PIP/IPACx1K VSN types, and router/firewall management VIPs.
+
+- [[sources/gnjsn1|GNJSN1]]: GNJSN1 is an in-production US VOIP node in Kernersville, NC, with 1st Gen SN node type, MX960 router, 10Gb bandwidth, SRX4600 firewall, SPIP7-8 VSN type, router/firewall management VIPs, and planning for Gen 2.7 GNJSN1MR01/MR02 plus migration of Neptunes from GNJSN2 while retaining the node.
