@@ -13,3 +13,5 @@
 - [[sources/nyc1|NYC1]]: NYC1 is an in-production US VOIP node in New York, NY, with VX/VGA node type, an MX960 router, CS2K VSN type NYZG / Opt G, and Router1 VIP 166.35.89.225.
 
 - [[sources/frac|FRAC]]: FRAC is an in-production EMEA VOIP node in Frankfurt, DE, with CS2K-SRX node type, an Avaya router, SRX345 firewall, ComboGW CS2K type, and firewall VIP 170.127.18.25.
+
+- [[sources/chi2|CHI2]]: CHI2 is an in-production US VOIP node in Downers Grove, IL, with VX/VGA node type, an MX960 router, CS2K VSN type DNG5 / Opt 2, VZW NNI VX2, and Router1 VIP 166.56.0.176.
