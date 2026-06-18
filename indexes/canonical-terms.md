@@ -2,6 +2,7 @@
 
 Curated alias → canonical mappings for this vault. WikiAgent maintains this file from the review workflow and uses the canonical form when tagging derived concepts, entities, and facets. The machine-readable source of truth is the managed block at the bottom.
 
+- `Decomm` → **Decommission**
 - `G9` → **G9x2**
 - `go no go call` → **go/no-go call**
 - `go, no go call` → **go/no-go call**
@@ -13,6 +14,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `OH` → **Ohio**
 - `S to I` → **S2I**
 - `SS2` → **S2I**
+- `SPIP7_8` → **SPIP7-8**
 - `TX` → **Texas**
 - `VRP` → **VRRP**
 
@@ -20,6 +22,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 {
   "schemaVersion": 1,
   "mappings": [
+    {
+      "aliasTerm": "Decomm",
+      "canonicalTerm": "Decommission",
+      "confidence": 0.76
+    },
     {
       "aliasTerm": "G9",
       "canonicalTerm": "G9x2",
@@ -74,6 +81,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "SS2",
       "canonicalTerm": "S2I",
       "confidence": 0.72
+    },
+    {
+      "aliasTerm": "SPIP7_8",
+      "canonicalTerm": "SPIP7-8",
+      "confidence": 0.92
     },
     {
       "aliasTerm": "TX",
