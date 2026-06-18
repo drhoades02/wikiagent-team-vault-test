@@ -9,3 +9,5 @@ Use this page for curated team knowledge, stable concepts, and approved source l
 - [[sources/raymi1|RAYMI1]]
 
 - [[sources/elp4|ELP4]]: ELP4 is an in-production US VOIP node in Lubbock, TX, using an MX960 router with VX/VGA node type and CS2K VSN type LUB2.
+
+- [[sources/frac|FRAC]]: FRAC is an in-production EMEA VOIP node in Frankfurt, DE, using CS2K-SRX node type, an Avaya router, SRX345 firewall, ComboGW CS2K type, and firewall VIP 170.127.18.25.
