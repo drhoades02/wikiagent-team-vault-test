@@ -3,6 +3,7 @@
 Curated alias → canonical mappings for this vault. WikiAgent maintains this file from the review workflow and uses the canonical form when tagging derived concepts, entities, and facets. The machine-readable source of truth is the managed block at the bottom.
 
 - `Decomm` → **Decommission**
+- `FW VIP` → **Firewall VIP**
 - `G9` → **G9x2**
 - `go no go call` → **go/no-go call**
 - `go, no go call` → **go/no-go call**
@@ -26,6 +27,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "Decomm",
       "canonicalTerm": "Decommission",
       "confidence": 0.76
+    },
+    {
+      "aliasTerm": "FW VIP",
+      "canonicalTerm": "Firewall VIP",
+      "confidence": 0.82
     },
     {
       "aliasTerm": "G9",

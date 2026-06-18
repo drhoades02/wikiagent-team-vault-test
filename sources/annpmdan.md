@@ -3,7 +3,7 @@ title: ANNPMDAN
 created: 2026-06-18T20:07:58.402430+00:00
 updated: 2026-06-18T20:07:58.402430+00:00
 concepts:
-- FW VIP
+- Firewall VIP
 - In-Production US
 entities:
 - 152.210.148.85

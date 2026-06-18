@@ -17,3 +17,5 @@
 - [[sources/chi2|CHI2]]: CHI2 is an in-production US VOIP node in Downers Grove, IL, with VX/VGA node type, an MX960 router, CS2K VSN type DNG5 / Opt 2, VZW NNI VX2, and Router1 VIP 166.56.0.176.
 
 - [[sources/idcsn1|IDCSN1]]: IDCSN1 is an in-production US VOIP node in Independence, MO, with 1st Gen SN node type, MX960 router, 10Gb bandwidth, SPIP7-8 VSN type, router management VIPs, and a plan to upgrade IDCSN4, migrate SPIP7_8 to IDCSN4, and decommission IDCSN1.
+
+- [[sources/sin2|SIN2]]: SIN2 is an in-production APAC VOIP node in SG with CS2K-SRX node type, an Avaya router, SRX345 firewall, ComboGW CS2K type, and firewall VIP 10.45.54.76.
