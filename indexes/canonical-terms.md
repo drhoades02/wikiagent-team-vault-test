@@ -6,6 +6,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `go no go call` → **go/no-go call**
 - `go, no go call` → **go/no-go call**
 - `no go, go, no go call` → **go/no-go call**
+- `IL` → **Illinois**
 - `J tech` → **JTAC**
 - `Kirk` → **KIRKE** _(entity)_
 - `NY` → **New York**
@@ -38,6 +39,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "no go, go, no go call",
       "canonicalTerm": "go/no-go call",
       "confidence": 0.82
+    },
+    {
+      "aliasTerm": "IL",
+      "canonicalTerm": "Illinois",
+      "confidence": 0.74
     },
     {
       "aliasTerm": "J tech",
