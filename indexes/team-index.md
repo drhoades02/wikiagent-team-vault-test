@@ -17,3 +17,5 @@ Use this page for curated team knowledge, stable concepts, and approved source l
 - [[sources/idcsn1|IDCSN1]]: IDCSN1 is an in-production Independence, MO 1st Gen SN node using an MX960 router and SPIP7-8, with planning to migrate SPIP7_8 to IDCSN4 and decommission IDCSN1.
 
 - [[sources/sin2|SIN2]]
+
+- [[sources/rayma1|RAYMA1]]
