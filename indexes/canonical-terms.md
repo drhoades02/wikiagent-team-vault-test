@@ -13,6 +13,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `no go, go, no go call` → **go/no-go call**
 - `ice back` → **I spec**
 - `isec` → **I spec**
+- `ISPEC` → **I spec**
 - `IL` → **Illinois**
 - `J tech` → **JTAC**
 - `Kirk` → **KIRKE** _(entity)_
@@ -32,6 +33,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `T rec` → **TREC**
 - `test requirement creation` → **TREC**
 - `test requirements` → **TREC**
+- `TReq` → **TREC**
 - `VRP` → **VRRP**
 
 <!-- wikiagent:canonical-terms
@@ -92,6 +94,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "isec",
       "canonicalTerm": "I spec",
       "confidence": 0.76
+    },
+    {
+      "aliasTerm": "ISPEC",
+      "canonicalTerm": "I spec",
+      "confidence": 0.82
     },
     {
       "aliasTerm": "IL",
@@ -187,6 +194,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "test requirements",
       "canonicalTerm": "TREC",
       "confidence": 0.92
+    },
+    {
+      "aliasTerm": "TReq",
+      "canonicalTerm": "TREC",
+      "confidence": 0.78
     },
     {
       "aliasTerm": "VRP",
