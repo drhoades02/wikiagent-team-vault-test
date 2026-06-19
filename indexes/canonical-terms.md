@@ -15,6 +15,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `isec` → **I spec**
 - `IL` → **Illinois**
 - `J tech` → **JTAC**
+- `Juniper SM` → **Juniper Service Manager**
 - `Kirk` → **KIRKE** _(entity)_
 - `mob` → **MOP**
 - `mops` → **MOP**
@@ -102,6 +103,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "J tech",
       "canonicalTerm": "JTAC",
       "confidence": 0.8
+    },
+    {
+      "aliasTerm": "Juniper SM",
+      "canonicalTerm": "Juniper Service Manager",
+      "confidence": 0.9
     },
     {
       "aliasTerm": "Kirk",

@@ -4,3 +4,5 @@
 
 - [[sources/verizon-process-101-mop-cutsheet-creation-transcript|verizon process 101 mop cutsheet creation transcript]]
 - [[sources/verizon-process-101-milestones-gates-prerequisites-resha-transcript|verizon process 101 milestones gates prerequisites resha transcript]]
+
+- [[sources/layer1-tasks|layer1 tasks]]
