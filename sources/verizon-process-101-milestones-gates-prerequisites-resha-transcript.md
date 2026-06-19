@@ -23,6 +23,7 @@ title: 'Verizon Process 101: Milestones, Gates, and Prerequisites'
 indexes:
 - '[[Team Index]]'
 - '[[Verizon Migration Process]]'
+- '[[Verizon Process 101]]'
 description: Transcript of a Verizon Process 101 meeting covering migration milestones, gates, prerequisites, lab certification, TER/MOP review, and site-specific CCR/NFID workflows.
 source: /Users/drhoades/VaultRaw/Verizon Process 101_ Milestones_Gates_Prerequisites (Resha) Transcript.docx
 ---
