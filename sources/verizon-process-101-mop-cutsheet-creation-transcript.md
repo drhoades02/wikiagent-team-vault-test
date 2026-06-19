@@ -22,6 +22,7 @@ title: 'Verizon Process 101: MOP and cut sheet creation transcript'
 indexes:
 - '[[Team Index]]'
 - '[[Verizon Migration Procedures]]'
+- '[[Verizon Process 101]]'
 description: Transcript of a Verizon Process 101 training session on creating pre-migration cut sheets from I specs and preparing, reviewing, and validating MOPs for Verizon network migrations.
 source: /Users/drhoades/VaultRaw/Verizon Process 101_ MOP_Cutsheet Creation Transcript.docx
 ---
