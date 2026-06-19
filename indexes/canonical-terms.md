@@ -23,8 +23,14 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `NY` → **New York**
 - `Node Evol` → **Node Evolution**
 - `OH` → **Ohio**
+- `Rob Labue` → **Rob Lebue**
+- `Rob Le Bue` → **Rob Lebue**
+- `Rob Lebou` → **Rob Lebue**
 - `S to I` → **S2I**
 - `SS2` → **S2I**
+- `SF PS` → **SFP**
+- `SFP's` → **SFP**
+- `Sfps` → **SFP**
 - `SPIP7_8` → **SPIP7-8**
 - `TER delivery` → **TER**
 - `test exit report` → **TER**
@@ -32,6 +38,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `T rec` → **TREC**
 - `test requirement creation` → **TREC**
 - `test requirements` → **TREC**
+- `Athenia` → **Venue**
 - `VRP` → **VRRP**
 
 <!-- wikiagent:canonical-terms
@@ -144,6 +151,21 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "confidence": 0.78
     },
     {
+      "aliasTerm": "Rob Labue",
+      "canonicalTerm": "Rob Lebue",
+      "confidence": 0.74
+    },
+    {
+      "aliasTerm": "Rob Le Bue",
+      "canonicalTerm": "Rob Lebue",
+      "confidence": 0.74
+    },
+    {
+      "aliasTerm": "Rob Lebou",
+      "canonicalTerm": "Rob Lebue",
+      "confidence": 0.74
+    },
+    {
       "aliasTerm": "S to I",
       "canonicalTerm": "S2I",
       "confidence": 0.72
@@ -152,6 +174,21 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "SS2",
       "canonicalTerm": "S2I",
       "confidence": 0.72
+    },
+    {
+      "aliasTerm": "SF PS",
+      "canonicalTerm": "SFP",
+      "confidence": 0.9
+    },
+    {
+      "aliasTerm": "SFP's",
+      "canonicalTerm": "SFP",
+      "confidence": 0.9
+    },
+    {
+      "aliasTerm": "Sfps",
+      "canonicalTerm": "SFP",
+      "confidence": 0.9
     },
     {
       "aliasTerm": "SPIP7_8",
@@ -187,6 +224,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "test requirements",
       "canonicalTerm": "TREC",
       "confidence": 0.92
+    },
+    {
+      "aliasTerm": "Athenia",
+      "canonicalTerm": "Venue",
+      "confidence": 0.55
     },
     {
       "aliasTerm": "VRP",

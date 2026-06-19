@@ -4,3 +4,5 @@
 
 - [[sources/verizon-process-101-mop-cutsheet-creation-transcript|verizon process 101 mop cutsheet creation transcript]]
 - [[sources/verizon-process-101-milestones-gates-prerequisites-resha-transcript|verizon process 101 milestones gates prerequisites resha transcript]]
+
+- [[sources/verizon-process-101-ispec-review-james-e-gery|verizon process 101 ispec review james e gery]]: Verizon Process 101 ISPEC review covers tracing LLD, PRF, CCR/NFID, master port allocations, D1/D2 telemetry, and old-router audits into the final I spec so missing or mismatched migration connections can be caught early.
