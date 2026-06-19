@@ -2,6 +2,7 @@
 
 Curated alias → canonical mappings for this vault. WikiAgent maintains this file from the review workflow and uses the canonical form when tagging derived concepts, entities, and facets. The machine-readable source of truth is the managed block at the bottom.
 
+- `NFID` → **CCR**
 - `Decom` → **Decommission**
 - `Decomm` → **Decommission**
 - `Erickson engine` → **Ericsson Engine**
@@ -17,6 +18,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `Kirk` → **KIRKE** _(entity)_
 - `mob` → **MOP**
 - `mops` → **MOP**
+- `Nesta security scan` → **Nessus security scan**
 - `NJ` → **New Jersey**
 - `NY` → **New York**
 - `Node Evol` → **Node Evolution**
@@ -24,13 +26,23 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `S to I` → **S2I**
 - `SS2` → **S2I**
 - `SPIP7_8` → **SPIP7-8**
+- `TER delivery` → **TER**
+- `test exit report` → **TER**
 - `TX` → **Texas**
+- `T rec` → **TREC**
+- `test requirement creation` → **TREC**
+- `test requirements` → **TREC**
 - `VRP` → **VRRP**
 
 <!-- wikiagent:canonical-terms
 {
   "schemaVersion": 1,
   "mappings": [
+    {
+      "aliasTerm": "NFID",
+      "canonicalTerm": "CCR",
+      "confidence": 0.95
+    },
     {
       "aliasTerm": "Decom",
       "canonicalTerm": "Decommission",
@@ -107,6 +119,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "confidence": 0.84
     },
     {
+      "aliasTerm": "Nesta security scan",
+      "canonicalTerm": "Nessus security scan",
+      "confidence": 0.62
+    },
+    {
       "aliasTerm": "NJ",
       "canonicalTerm": "New Jersey",
       "confidence": 0.78
@@ -142,9 +159,34 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "confidence": 0.92
     },
     {
+      "aliasTerm": "TER delivery",
+      "canonicalTerm": "TER",
+      "confidence": 0.94
+    },
+    {
+      "aliasTerm": "test exit report",
+      "canonicalTerm": "TER",
+      "confidence": 0.94
+    },
+    {
       "aliasTerm": "TX",
       "canonicalTerm": "Texas",
       "confidence": 0.72
+    },
+    {
+      "aliasTerm": "T rec",
+      "canonicalTerm": "TREC",
+      "confidence": 0.92
+    },
+    {
+      "aliasTerm": "test requirement creation",
+      "canonicalTerm": "TREC",
+      "confidence": 0.92
+    },
+    {
+      "aliasTerm": "test requirements",
+      "canonicalTerm": "TREC",
+      "confidence": 0.92
     },
     {
       "aliasTerm": "VRP",
