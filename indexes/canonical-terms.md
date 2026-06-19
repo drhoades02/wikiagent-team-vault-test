@@ -19,6 +19,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `IL` → **Illinois**
 - `Ginger 2` → **Jinja2**
 - `J tech` → **JTAC**
+- `Juniper SM` → **Juniper Service Manager**
 - `Kirk` → **KIRKE** _(entity)_
 - `L1 testing` → **Layer 1 IT Assurance**
 - `Layer 1 validation` → **Layer 1 IT Assurance**
@@ -157,6 +158,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "J tech",
       "canonicalTerm": "JTAC",
       "confidence": 0.8
+    },
+    {
+      "aliasTerm": "Juniper SM",
+      "canonicalTerm": "Juniper Service Manager",
+      "confidence": 0.9
     },
     {
       "aliasTerm": "Kirk",

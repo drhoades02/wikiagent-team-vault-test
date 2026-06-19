@@ -5,6 +5,7 @@
 - [[sources/verizon-process-101-mop-cutsheet-creation-transcript|verizon process 101 mop cutsheet creation transcript]]
 - [[sources/verizon-process-101-milestones-gates-prerequisites-resha-transcript|verizon process 101 milestones gates prerequisites resha transcript]]
 
+- [[sources/layer1-tasks|layer1 tasks]]
 - [[sources/links-in-chats|links in chats]]: A Verizon Process 101 link collection gathers reference folders and files for low-level design review, I spec review, milestones/gates/prerequisites, provisioning guidelines, test requirements, lab certification port assignments, and Layer1/IT Assurance email templates.
 - [[sources/verizon-process-101-low-level-design-review-spip7|verizon process 101 low level design review spip7]]: Low-level design review training covers finding the latest LLDs, distinguishing legacy and Gen 2.7 designs, interpreting VSN traffic flows, and checking how routing instances, VLANs, firewall inspection, and I spec details affect migration work.
 - [[sources/verizon-process-101-ispec-review-james-e-gery|verizon process 101 ispec review james e gery]]: Verizon Process 101 ISPEC review covers tracing LLD, PRF, CCR/NFID, master port allocations, D1/D2 telemetry, and old-router audits into the final I spec so missing or mismatched migration connections can be caught early.
