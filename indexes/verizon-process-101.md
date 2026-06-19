@@ -4,3 +4,5 @@
 
 - [[sources/verizon-process-101-mop-cutsheet-creation-transcript|verizon process 101 mop cutsheet creation transcript]]
 - [[sources/verizon-process-101-milestones-gates-prerequisites-resha-transcript|verizon process 101 milestones gates prerequisites resha transcript]]
+
+- [[sources/verizon-process-101-layer1-it-assurance-gery-transcript|verizon process 101 layer1 it assurance gery transcript]]: Layer 1 IT Assurance covers post-Verizon handoff validation: pulling I specs, opening a non-service-impacting KIRKE, building base configurations, validating SSH/JTAC/SNMP/archive/NTP behavior, updating S2I and ICE/TACACS records, and checking hardware and physical links before migration.

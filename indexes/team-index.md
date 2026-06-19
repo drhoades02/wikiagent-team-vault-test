@@ -27,3 +27,5 @@ Use this page for curated team knowledge, stable concepts, and approved source l
 - [[sources/cpzsn1|CPZSN1]]
 
 - [[sources/nwrk|NWRK]]: NWRK is an in-production US VOIP node in Newark, NJ, using a VX/VGA node type, MX960 router, CS2K NWKG Opt G VSN type, ADF/UDP, and Router1 VIP 166.47.6.155.
+
+- [[sources/verizon-process-101-layer1-it-assurance-gery-transcript|verizon process 101 layer1 it assurance gery transcript]]
