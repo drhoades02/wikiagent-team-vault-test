@@ -4,14 +4,19 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 
 - `Decom` → **Decommission**
 - `Decomm` → **Decommission**
+- `Erickson engine` → **Ericsson Engine**
 - `FW VIP` → **Firewall VIP**
 - `G9` → **G9x2**
 - `go no go call` → **go/no-go call**
 - `go, no go call` → **go/no-go call**
 - `no go, go, no go call` → **go/no-go call**
+- `ice back` → **I spec**
+- `isec` → **I spec**
 - `IL` → **Illinois**
 - `J tech` → **JTAC**
 - `Kirk` → **KIRKE** _(entity)_
+- `mob` → **MOP**
+- `mops` → **MOP**
 - `NJ` → **New Jersey**
 - `NY` → **New York**
 - `Node Evol` → **Node Evolution**
@@ -35,6 +40,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "Decomm",
       "canonicalTerm": "Decommission",
       "confidence": 0.76
+    },
+    {
+      "aliasTerm": "Erickson engine",
+      "canonicalTerm": "Ericsson Engine",
+      "confidence": 0.72
     },
     {
       "aliasTerm": "FW VIP",
@@ -62,6 +72,16 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "confidence": 0.82
     },
     {
+      "aliasTerm": "ice back",
+      "canonicalTerm": "I spec",
+      "confidence": 0.76
+    },
+    {
+      "aliasTerm": "isec",
+      "canonicalTerm": "I spec",
+      "confidence": 0.76
+    },
+    {
       "aliasTerm": "IL",
       "canonicalTerm": "Illinois",
       "confidence": 0.74
@@ -75,6 +95,16 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "Kirk",
       "canonicalTerm": "KIRKE",
       "termKind": "entity"
+    },
+    {
+      "aliasTerm": "mob",
+      "canonicalTerm": "MOP",
+      "confidence": 0.84
+    },
+    {
+      "aliasTerm": "mops",
+      "canonicalTerm": "MOP",
+      "confidence": 0.84
     },
     {
       "aliasTerm": "NJ",
@@ -119,7 +149,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
     {
       "aliasTerm": "VRP",
       "canonicalTerm": "VRRP",
-      "confidence": 0.72
+      "confidence": 0.82
     }
   ]
 }
