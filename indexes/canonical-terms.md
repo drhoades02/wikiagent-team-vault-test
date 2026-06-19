@@ -5,6 +5,7 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `NFID` → **CCR**
 - `Decom` → **Decommission**
 - `Decomm` → **Decommission**
+- `Eric and engine` → **Ericsson Engine**
 - `Erickson engine` → **Ericsson Engine**
 - `FW VIP` → **Firewall VIP**
 - `G9` → **G9x2**
@@ -16,6 +17,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `IL` → **Illinois**
 - `J tech` → **JTAC**
 - `Kirk` → **KIRKE** _(entity)_
+- `LDLD` → **LLD**
+- `LLDs` → **LLD**
+- `LOD` → **LLD**
+- `Low Level Design` → **LLD**
+- `Low Level Design Review` → **LLD**
 - `mob` → **MOP**
 - `mops` → **MOP**
 - `Nesta security scan` → **Nessus security scan**
@@ -25,6 +31,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `OH` → **Ohio**
 - `S to I` → **S2I**
 - `SS2` → **S2I**
+- `Sonas` → **Sonus**
+- `S pip seven and eight` → **SPIP7-8**
+- `SP 7-8` → **SPIP7-8**
+- `SPIP 7 and eight` → **SPIP7-8**
+- `SPIP 7/8` → **SPIP7-8**
 - `SPIP7_8` → **SPIP7-8**
 - `TER delivery` → **TER**
 - `test exit report` → **TER**
@@ -32,7 +43,13 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
 - `T rec` → **TREC**
 - `test requirement creation` → **TREC**
 - `test requirements` → **TREC**
+- `XL router` → **VA router**
+- `Virtual service note` → **Virtual service node**
+- `Public IP VPN` → **VoIP infrastructure VPN**
+- `VIV` → **VoIP infrastructure VPN**
 - `VRP` → **VRRP**
+- `VSNS` → **VSN**
+- `Excel router` → **XL router**
 
 <!-- wikiagent:canonical-terms
 {
@@ -52,6 +69,11 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "aliasTerm": "Decomm",
       "canonicalTerm": "Decommission",
       "confidence": 0.76
+    },
+    {
+      "aliasTerm": "Eric and engine",
+      "canonicalTerm": "Ericsson Engine",
+      "confidence": 0.77
     },
     {
       "aliasTerm": "Erickson engine",
@@ -109,6 +131,31 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "termKind": "entity"
     },
     {
+      "aliasTerm": "LDLD",
+      "canonicalTerm": "LLD",
+      "confidence": 0.78
+    },
+    {
+      "aliasTerm": "LLDs",
+      "canonicalTerm": "LLD",
+      "confidence": 0.78
+    },
+    {
+      "aliasTerm": "LOD",
+      "canonicalTerm": "LLD",
+      "confidence": 0.78
+    },
+    {
+      "aliasTerm": "Low Level Design",
+      "canonicalTerm": "LLD",
+      "confidence": 0.78
+    },
+    {
+      "aliasTerm": "Low Level Design Review",
+      "canonicalTerm": "LLD",
+      "confidence": 0.78
+    },
+    {
       "aliasTerm": "mob",
       "canonicalTerm": "MOP",
       "confidence": 0.84
@@ -154,6 +201,31 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "confidence": 0.72
     },
     {
+      "aliasTerm": "Sonas",
+      "canonicalTerm": "Sonus",
+      "confidence": 0.84
+    },
+    {
+      "aliasTerm": "S pip seven and eight",
+      "canonicalTerm": "SPIP7-8",
+      "confidence": 0.88
+    },
+    {
+      "aliasTerm": "SP 7-8",
+      "canonicalTerm": "SPIP7-8",
+      "confidence": 0.88
+    },
+    {
+      "aliasTerm": "SPIP 7 and eight",
+      "canonicalTerm": "SPIP7-8",
+      "confidence": 0.88
+    },
+    {
+      "aliasTerm": "SPIP 7/8",
+      "canonicalTerm": "SPIP7-8",
+      "confidence": 0.88
+    },
+    {
       "aliasTerm": "SPIP7_8",
       "canonicalTerm": "SPIP7-8",
       "confidence": 0.92
@@ -189,9 +261,39 @@ Curated alias → canonical mappings for this vault. WikiAgent maintains this fi
       "confidence": 0.92
     },
     {
+      "aliasTerm": "XL router",
+      "canonicalTerm": "VA router",
+      "confidence": 0.82
+    },
+    {
+      "aliasTerm": "Virtual service note",
+      "canonicalTerm": "Virtual service node",
+      "confidence": 0.72
+    },
+    {
+      "aliasTerm": "Public IP VPN",
+      "canonicalTerm": "VoIP infrastructure VPN",
+      "confidence": 0.62
+    },
+    {
+      "aliasTerm": "VIV",
+      "canonicalTerm": "VoIP infrastructure VPN",
+      "confidence": 0.94
+    },
+    {
       "aliasTerm": "VRP",
       "canonicalTerm": "VRRP",
       "confidence": 0.82
+    },
+    {
+      "aliasTerm": "VSNS",
+      "canonicalTerm": "VSN",
+      "confidence": 0.86
+    },
+    {
+      "aliasTerm": "Excel router",
+      "canonicalTerm": "XL router",
+      "confidence": 0.78
     }
   ]
 }

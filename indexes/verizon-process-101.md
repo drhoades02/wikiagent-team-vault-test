@@ -4,3 +4,5 @@
 
 - [[sources/verizon-process-101-mop-cutsheet-creation-transcript|verizon process 101 mop cutsheet creation transcript]]
 - [[sources/verizon-process-101-milestones-gates-prerequisites-resha-transcript|verizon process 101 milestones gates prerequisites resha transcript]]
+
+- [[sources/verizon-process-101-low-level-design-review-spip7|verizon process 101 low level design review spip7]]: Low-level design review training covers finding the latest LLDs, distinguishing legacy and Gen 2.7 designs, interpreting VSN traffic flows, and checking how routing instances, VLANs, firewall inspection, and I spec details affect migration work.
